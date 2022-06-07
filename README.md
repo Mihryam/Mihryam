@@ -15,10 +15,13 @@
     <img src="https://img.shields.io/badge/FaceBook-darkblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=Mihryam&style=flat-square&color=blue" alt=""/>
+  
+  ## Hi there 👋
 </div>
 
 
-### Hi there 👋
 
 <!--
 **Mihryam/Mihryam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
