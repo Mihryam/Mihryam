@@ -21,10 +21,12 @@
   ## Hi there 👋
 </div>
 
+<div align="center">
+  <img src="https://cdn.wallpapersafari.com/74/67/G0vIpR.gif" width="600" height="300"/>
+</div>
 
 
-<!--
-**Mihryam/Mihryam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
