@@ -28,7 +28,7 @@
 
 
 
-Here are some ideas to get you started:
+Let me tell you a bit about myself:
 
 - 🔭 I’m currently working on being a Data Scuentist
 - 🌱 I’m currently learning how to work with Scikit Learn
