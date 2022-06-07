@@ -35,7 +35,7 @@ Let me tell you a bit about myself:
 - 👯 I’m looking to collaborate on amazing Data Science projects that can help build my expertise
 - 🤔 I’m looking for a learning partner
 - 💬 Ask me about Sci Fi Movies and what i am currently learning
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me:  Please Follow my social media handles above
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: My Heart lips for joy each time to view my profile
 -->
