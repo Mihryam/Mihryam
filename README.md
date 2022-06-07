@@ -37,5 +37,5 @@ Let me tell you a bit about myself:
 - 💬 Ask me about Sci Fi Movies and what i am currently learning
 - 📫 How to reach me:  Please Follow my social media handles above
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: My Heart lips for joy each time to view my profile
+- ⚡ Fun fact: My Heart lips for joy each time you view my profile
 -->
