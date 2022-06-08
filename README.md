@@ -18,7 +18,8 @@
   
   <img src="https://komarev.com/ghpvc/?username=Mihryam&style=flat-square&color=blue" alt=""/>
   
-  ## Hi there 👋
+  ### Hi there 👋 <br> My name is Miriam Amaefule 😊 <br> It feels good to have you here 🤗
+  
 </div>
 
 <div align="center">
@@ -31,26 +32,24 @@
 
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from a Mathematics Background
 
-- :telescope: I’m working as a Data Science Intern and contributing to the tech community by volunteering and training other Data Science Enthus.
+- :telescope: I’m working as a Data Science Intern and contributing to the tech community by volunteering and training other Data Science Enthusiast.
 
 - :seedling: Currently Exploring my Creative Writing skills through Technical Content Writing.
 
 - :zap: In my free time, I solve problems on Hackerrank and read alot of books and tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-miriam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miriam-amaefule-b82534179/)
-- 🔭 I’m currently working on being a Data Scientist
-- 🌱 I’m currently learning how to work with Scikit Learn
+
 - 👯 I’m looking to collaborate on amazing Data Science projects that can help build my expertise
-- 🤔 I’m looking for a learning partner
-- 💬 Ask me about Sci Fi Movies and what i am currently learning
-- 📫 How to reach me:  Please Follow my social media handles above
+
 - 😄 Pronouns: She/Her
+
 - ⚡ Fun fact: My Heart lips for joy each time you view my profile
--->
+
 ---
 
 
-### :hammer_and_wrench: Languages and Tools :                                                                                                                                               
+# :hammer_and_wrench: Languages and Tools :                                                                                                                                               
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
@@ -60,18 +59,19 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original-wordmark.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mspowerbi/mspowerbi-original-wordmark.svg" title="MsPower BI" alt="Power BI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <div/>
   
 ---
 
-### :fire: My Stats :                                                                                                                             
+# :fire: My Stats :                                                                                                                             
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mihryam&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihryam)](https://github.com/Mihryam/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihryam&layout=compact&theme=vision-friendly-dark)](https://github.com/Mihryam/github-readme-stats)  
 ---
 
 # :writing_hand: Blog Posts :
-You an check out my blog post here   <a href="https://miriam.hashnode.dev/">                                                                                                                                             
+You an check out my blog post here:  [![Hashnode Badge](https://img.shields.io/badge/-miriam-blue?style=flat&logo=Hashnode&logoColor=white)](https://miriam.hashnode.dev/)  
+                                                                                                                                                                                                                                                                                      
