@@ -34,13 +34,13 @@ I am a Data Nerd <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :telescope: I’m working as a Data Science Intern and contributing to the tech community by volunteering and training other Data Science Enthusiast.
 
-- :seedling: Currently Exploring my Creative Writing skills through Technical Content Writing.
+- :seedling: Currently building my skills as a Data Scientist and Exploring my Creative Writing skills through Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Hackerrank and read alot of books and tech articles.
+- :zap: In my free time, I solve problems on Hackerrank,perform EDA on interesting datasets i come across and read alot of books and tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-miriam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miriam-amaefule-b82534179/)
 
-- 👯 I’m looking to collaborate on amazing Data Science projects that can help build my expertise
+- 👯 I’m looking to collaborate on amazing Data Science projects that can help build my expertise and connecting with amazing techies as well.
 
 - 😄 Pronouns: She/Her
 
