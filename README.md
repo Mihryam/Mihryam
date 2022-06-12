@@ -30,7 +30,7 @@
 
 # :woman_technologist: About Me :
 
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from a Mathematics Background
+I am a Data Nerd <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from a Mathematics Background
 
 - :telescope: I’m working as a Data Science Intern and contributing to the tech community by volunteering and training other Data Science Enthusiast.
 
@@ -44,7 +44,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - 😄 Pronouns: She/Her
 
-- ⚡ Fun fact: My Heart lips for joy each time you view my profile
+- ⚡ Fun fact: My Heart leaps for joy each time you view my profile
 
 ---
 
