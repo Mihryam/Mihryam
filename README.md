@@ -38,7 +38,7 @@ I am a Data Nerd <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :zap: In my free time, I solve problems on Hackerrank,perform EDA on interesting datasets i come across and read alot of books and tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-miriam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miriam-amaefule-b82534179/)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-miriam-blue?style=flat&logo=Linkedin&logoColor=white)](+2348020693572)
 
 - 👯 I’m looking to collaborate on amazing Data Science projects that can help build my expertise and connecting with amazing techies as well.
 
