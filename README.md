@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.wallpapersafari.com/74/67/G0vIpR.gif" width="600" height="300"/>
+  <img src="https://cdn.wallpapersafari.com/74/67/G0vIpR.gif" width="60" height="300"/>
 </div>
 
 ---
