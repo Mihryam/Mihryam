@@ -22,17 +22,13 @@
   
 </div>
 
-<div align="center">
-  <img src="https://cdn.wallpapersafari.com/74/67/G0vIpR.gif" width="100" height="300"/>
-</div>
-
 ---
 
 # :woman_technologist: About Me :
 
 I am a Data Nerd <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from a Mathematics Background
 
-- :telescope: I’m working as a Data Science Community Manager at [![Telegram Badge](https://img.shields.io/badge/-BigDataSpeialist-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/datascience_bds)and contributing to the tech community by volunteering and mentoring other Data Science Enthusiast.
+- :telescope: I’m working as a Data Science Community Manager at [![Telegram Badge](https://img.shields.io/badge/-BigDataSpecialist-black?style=flat&logo=Telegram&logoColor=orange)](https://t.me/datascience_bds)and contributing to the tech community by volunteering and mentoring other Data Science Enthusiast.
 
 - :seedling: Currently building my skills as a Data Scientist and exploring my creative writing skills
 
