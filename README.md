@@ -32,11 +32,11 @@
 
 I am a Data Nerd <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from a Mathematics Background
 
-- :telescope: I’m working as a Data Science Intern and contributing to the tech community by volunteering and training other Data Science Enthusiast.
+- :telescope: I’m working as a Data Science Community Manager at [![Telegram Badge](https://img.shields.io/badge/-miriam-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/datascience_bds)and contributing to the tech community by volunteering and mentoring other Data Science Enthusiast.
 
-- :seedling: Currently building my skills as a Data Scientist and Exploring my Creative Writing skills through Technical Content Writing.
+- :seedling: Currently building my skills as a Data Scientist and exploring my creative writing skills
 
-- :zap: In my free time, I solve problems on Hackerrank,perform EDA on interesting datasets i come across and read alot of books and tech articles.
+- :zap: In my free time, I solve problems on Hackerrank, read alot of Data Science books and tech articles.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-miriam-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DataNerdRedefined)
 
