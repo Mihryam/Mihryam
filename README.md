@@ -32,7 +32,7 @@
 
 I am a Data Nerd <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from a Mathematics Background
 
-- :telescope: I’m working as a Data Science Community Manager at [![Telegram Badge](https://img.shields.io/badge/-miriam-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/datascience_bds)and contributing to the tech community by volunteering and mentoring other Data Science Enthusiast.
+- :telescope: I’m working as a Data Science Community Manager at [![Telegram Badge](https://img.shields.io/badge/-Big Data Speialist-black?style=flat&logo=Telegram&logoColor=orange)](https://t.me/datascience_bds)and contributing to the tech community by volunteering and mentoring other Data Science Enthusiast.
 
 - :seedling: Currently building my skills as a Data Scientist and exploring my creative writing skills
 
