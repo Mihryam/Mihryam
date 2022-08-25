@@ -40,7 +40,7 @@ I am a Data Nerd <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - 😄 Pronouns: She/Her
 
-- ⚡ Fun fact: My Heart leaps for joy each time you view my profile
+- ⚡ Fun fact: I have an interest in cognitive psychology and it's intersection with AI
 
 ---
 
