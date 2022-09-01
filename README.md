@@ -69,5 +69,5 @@ I am a Data Nerd <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ---
 
 # :writing_hand: Blog Posts :
-You an check out my blog post here:  [![Hashnode Badge](https://img.shields.io/badge/-miriam-blue?style=flat&logo=Hashnode&logoColor=white)](https://miriam.hashnode.dev/)  
+You can check out my blog post here:  [![Hashnode Badge](https://img.shields.io/badge/-miriam-blue?style=flat&logo=Hashnode&logoColor=white)](https://miriam.hashnode.dev/)  
                                                                                                                                                                                                                                                                                       
