@@ -32,7 +32,7 @@ I am a Data Nerd <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :seedling: Currently building my skills as a Data Scientist and exploring my creative writing skills
 
-- :zap: In my free time, I solve problems on Hackerrank, read alot of Data Science books and tech articles.
+- :zap: In my free time, I study interesting research papers, watch science-fiction movies and consume alot of Machine Learning books and articles.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-miriam-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DataNerdRedefined)
 
@@ -40,8 +40,7 @@ I am a Data Nerd <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - 😄 Pronouns: She/Her
 
-- ⚡ Fun fact: I have an interest in cognitive psychology and it's intersection with AI
-
+- ⚡ Fun fact: In love with any human and object with the color blue 😄😄
 ---
 
 
