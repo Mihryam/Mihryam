@@ -30,7 +30,7 @@ I am a Data Nerd <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :telescope: I manage a Telegram Data Science Community at [![Telegram Badge](https://img.shields.io/badge/-BigDataSpecialist-black?style=flat&logo=Telegram&logoColor=orange)](https://t.me/datascience_bds)and contribute to the tech community by volunteering and mentoring other Data Science Enthusiast.
 
-- :seedling: Currently building my skills as a Data Scientist and exploring my creative writing skills
+- :seedling: Currently building my skills as a Data Scientist and working on interesting machine learning projects.
 
 - :zap: In my free time, I study interesting research papers, watch science-fiction movies and consume alot of Machine Learning books and articles.
 
