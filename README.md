@@ -26,7 +26,7 @@
 
 # :woman_technologist: About Me :
 
-I am a Data Nerd <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from a Mathematics Background
+I am a Data Nerd <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from a Mathematics Background and Core Member at the Global AI Hub
 
 - :telescope: I manage a Telegram Data Science Community at [![Telegram Badge](https://img.shields.io/badge/-BigDataSpecialist-black?style=flat&logo=Telegram&logoColor=orange)](https://t.me/datascience_bds)and contribute to the tech community by volunteering and mentoring other Data Science Enthusiast.
 
