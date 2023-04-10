@@ -34,7 +34,7 @@ I am a Data Nerd <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :zap: In my free time, I study interesting research papers, watch science-fiction movies and consume alot of Machine Learning books and articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-miriam-blue?style=flat&logo=Telegram&logoColor=white)](amaefulemiriam51@gmail.com )
+- :mailbox:How to reach me: janeamaefule1@gmail.com 
 
 - 👯 I’m looking to collaborate on amazing Data Science projects that can help build my expertise and connecting with amazing techies as well.
 
